@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/io.neoterm/files/usr/bin/bash
 
 set -u
 

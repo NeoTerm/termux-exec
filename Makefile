@@ -1,5 +1,5 @@
-TERMUX_PREFIX := /data/data/com.termux/files/usr
-TERMUX_BASE_DIR := /data/data/com.termux/files
+TERMUX_PREFIX := /data/data/io.neoterm/files/usr
+TERMUX_BASE_DIR := /data/data/io.neoterm/files
 CFLAGS += -Wall -Wextra -Werror -Oz
 
 libtermux-exec.so: termux-exec.c
